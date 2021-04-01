@@ -1,0 +1,41 @@
+[{
+        "Name": "Baby Mop",
+        "Price": 5.95,
+        "Description": "Ever wanted to mop with your baby? Say no more!",
+        "Features": "Turns that pesky crying baby into a mop!",
+        "img": "images/babyMop.jpg"
+
+    },
+
+    {
+        "Name": "Cat Butt Tissue Dispenser",
+        "Price": 4.38,
+        "Description": "Nothing like pulling tissues out of a cat's backside",
+        "Features": "Reloadable",
+        "img": "images/cattButt.jpg"
+    },
+
+    {
+        "Name": "Diil Pickle Lip Gloss",
+        "Price": 1.32,
+        "Description": "Disgusting!",
+        "Features": "Keep lips nice and dilly",
+        "img": "images/dillLip.jpg"
+    },
+
+    {
+        "Name": "Dog Dryer",
+        "Price": 10.22,
+        "Description": "Never deal with that wet dog smell again!",
+        "Features": "Dries your dog",
+        "img": "../images/dogDryer.jpg"
+    },
+
+    {
+        "Name": "1500 lady bugs",
+        "Price": 12.01,
+        "Description": "A lot of lady bugs",
+        "Features": "Lady bug things * 1500",
+        "img": "images/ladyBugs.jpg"
+    }
+]
