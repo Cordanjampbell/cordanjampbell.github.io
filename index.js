@@ -1,4 +1,5 @@
-addEventListener("onload", fetch("products.json")
+//onload pull json from github pages
+addEventListener("onload", fetch("https://cordanjampbell.github.io/products.json")
     .then(function(resp) {
         return resp.json();
     })
